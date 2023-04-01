@@ -3,7 +3,7 @@
 
 <body>
     <h1>Puppeteer Web Scraper</h1>
-    <p>Puppeteer Web Scraper is a powerful and user-friendly node.js app that extracts data from multiple websites and searches for specific keywords in their page sources. With an intuitive design and easy-to-use interface, automate your data gathering process for research, analysis, or monitoring purposes.</p>
+    <p>Puppeteer Web Scraper is a simple, powerful and user-friendly node.js app that extracts data from multiple websites and searches for specific keywords in their page sources. With an intuitive design and easy-to-use interface, automate your data gathering process for research, analysis, or monitoring purposes.</p>
     <h2>Installation</h2>
     <p>Before using Puppeteer Web Scraper, ensure that you have Node.js installed on your computer. You can download Node.js from the official website <a href="https://nodejs.org/en/download/">here</a>.</p>
     <p>Once you have Node.js installed, follow these steps to install Puppeteer Web Scraper:</p>
